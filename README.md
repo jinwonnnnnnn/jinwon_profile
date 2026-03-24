@@ -1,8 +1,8 @@
-<div align="center">
+<div align="left">
 
 # 👋 Hi there, I'm Jinwon!
 
-> 블리셔로 커리어를 시작하여 UI 구현을 넘어
+> 퍼블리셔로 커리어를 시작하여 UI 구현을 넘어
 > 데이터 흐름과 로직을 설계하는 프론트엔드 개발자로 성장했습니다.
 >
 > 실사용자를 대상으로 한 서비스와 백오피스를 개발하며
@@ -19,26 +19,26 @@
 
 ### Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=323330)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinwonnnnnnn&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinwonnnnnnn&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jinwonnnnnnn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinwonnnnnnn&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&langs_count=8" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinwonnnnnnn&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinwonnnnnnn&theme=tokyonight&hide_border=false&border_radius=10" height="180" />
 </div>
 
 ---
@@ -51,7 +51,7 @@
 
 ---
 
-##  Recent Issues & Activity
+## Recent Issues & Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->

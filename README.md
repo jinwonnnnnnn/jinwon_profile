@@ -2,20 +2,16 @@
 
 # 👋 Hi there, I'm Jinwon!
 
-> 꾸준히 성장하는 개발자입니다 🌱
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinwonnnnnnn&count_bg=%2379C83D&title_bg=%23555555&icon=github.alt&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+> 블리셔로 커리어를 시작하여 UI 구현을 넘어
+> 데이터 흐름과 로직을 설계하는 프론트엔드 개발자로 성장했습니다.
+>
+> 실사용자를 대상으로 한 서비스와 백오피스를 개발하며
+> 단순 기능 구현이 아닌 성능 개선, 구조 개선, 유지보수성 향상에 집중해왔습니다.
+>
+> 특히 프로젝트마다 발생하는 문제를 기준으로
+> 기술을 학습하고 적용하며 지속적으로 개선하는 개발 방식을 지향합니다.
 
 </div>
-
----
-
-## 🧑‍💻 About Me
-
-- 🔭 현재 **개인 프로젝트** 개발 중
-- 🌱 **React / Next.js / TypeScript** 를 공부하고 있어요
-- 💬 궁금한 건 언제든지 질문해 주세요!
-- 📫 Contact: **your-email@example.com**
 
 ---
 
@@ -47,14 +43,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jinwonnnnnnn&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -63,24 +51,9 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jinwonnnnnnn/jinwon_profile/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jinwonnnnnnn/jinwon_profile/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/jinwonnnnnnn/jinwon_profile/output/github-snake.svg" />
-  </picture>
-</div>
-
----
-
-## 📋 Recent Issues & Activity
+##  Recent Issues & Activity
 
 <!--START_SECTION:activity-->
-<!-- 이 섹션은 GitHub Actions로 자동 업데이트됩니다 -->
 <!--END_SECTION:activity-->
-
-> 📢 **[GitHub Actions 설정 후 자동으로 최근 활동이 표시됩니다]**
 
 ---
